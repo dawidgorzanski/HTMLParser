@@ -1,0 +1,9 @@
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParser\bin\Debug\netcoreapp2.1\HTMLParser.deps.json
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParser\bin\Debug\netcoreapp2.1\HTMLParser.dll
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParser\bin\Debug\netcoreapp2.1\HTMLParser.pdb
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParser\obj\Debug\netcoreapp2.1\HTMLParser.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParser\obj\Debug\netcoreapp2.1\HTMLParser.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParser\obj\Debug\netcoreapp2.1\HTMLParser.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParser\obj\Debug\netcoreapp2.1\HTMLParser.AssemblyInfo.cs
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParser\obj\Debug\netcoreapp2.1\HTMLParser.dll
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParser\obj\Debug\netcoreapp2.1\HTMLParser.pdb

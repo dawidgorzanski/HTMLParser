@@ -1,0 +1,14 @@
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParserConsole\bin\Release\netcoreapp2.1\HTMLParserConsole.deps.json
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParserConsole\bin\Release\netcoreapp2.1\HTMLParserConsole.runtimeconfig.json
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParserConsole\bin\Release\netcoreapp2.1\HTMLParserConsole.runtimeconfig.dev.json
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParserConsole\bin\Release\netcoreapp2.1\HTMLParserConsole.dll
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParserConsole\bin\Release\netcoreapp2.1\HTMLParserConsole.pdb
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParserConsole\bin\Release\netcoreapp2.1\HTMLParser.dll
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParserConsole\bin\Release\netcoreapp2.1\HTMLParser.pdb
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParserConsole\obj\Release\netcoreapp2.1\HTMLParserConsole.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParserConsole\obj\Release\netcoreapp2.1\HTMLParserConsole.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParserConsole\obj\Release\netcoreapp2.1\HTMLParserConsole.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParserConsole\obj\Release\netcoreapp2.1\HTMLParserConsole.AssemblyInfo.cs
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParserConsole\obj\Release\netcoreapp2.1\HTMLParserConsole.csproj.CopyComplete
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParserConsole\obj\Release\netcoreapp2.1\HTMLParserConsole.dll
+C:\Users\dawid\Desktop\TFS\HTMLParserConsole\HTMLParserConsole\obj\Release\netcoreapp2.1\HTMLParserConsole.pdb
